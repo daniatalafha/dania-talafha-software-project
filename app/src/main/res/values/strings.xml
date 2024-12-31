@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dania</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_Register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="Exercises">Exercises</string>
+    <string name="welcome_provider">Welcom_provider</string>
+    <string name="Add_Client">Add_Client</string>
+
+</resources>

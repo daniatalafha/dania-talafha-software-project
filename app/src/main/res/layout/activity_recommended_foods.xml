@@ -1,0 +1,15 @@
+<!-- activity_breathing_exercise.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- ImageView to show breathing exercise image -->
+    <ImageView
+        android:id="@+id/cardVRecommendedFoods"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/rf" />
+
+</LinearLayout>
